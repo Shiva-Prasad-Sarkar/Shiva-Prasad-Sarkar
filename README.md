@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://github.com/debjotyms/debjotyms/blob/main/hio.gif" height="55px" width="55px">, I am Shiva
+<h1 align="center">Hi<img src="https://i.gifer.com/Wczc.gif" height="55px" width="55px">, I am Shiva
 <br>A CSE Undergrad Student from Brac University, Bangladesh<br><br>
 
 
