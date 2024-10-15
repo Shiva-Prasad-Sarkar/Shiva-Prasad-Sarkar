@@ -13,10 +13,10 @@
 | [HackerRank](https://www.hackerrank.com/profile/shiva_prasad_sa1) | [Leetcode](https://leetcode.com/u/user9575st/) | [Codeforces](https://codeforces.com/profile/SpS__79) |
 
 <p float="left">
-<a href="https://leetcode.com/Anam_Prantik/">
+<a href="https://leetcode.com/shiva_prasad_sa1/">
     <img height="220em" src="https://leetcard.jacoblin.cool/user9575st?theme=dark&font=ABeeZee&ext=heatmap" /></a>
     
-<a href="https://codeforces.com/profile/Prantik_">
+<a href="https://codeforces.com/profile/SpS__79">
     <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=SpS__79&theme=dark&force_username=true" /></a>
 
 </p>
