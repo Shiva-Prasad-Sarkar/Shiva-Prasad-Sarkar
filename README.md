@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.gifer.com/Wczc.gif"  height="55px" width="55px">Hello!👋
+<h1 align="center"><img src="https://i.gifer.com/Wczc.gif"  height="55px" width="55px">
 <br>Welcome to my Github Profile<br><br>
     
 <h1 align="center">
