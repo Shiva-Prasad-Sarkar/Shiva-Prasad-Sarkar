@@ -2,7 +2,7 @@
 <br>Welcome to my Github Profile<br><br>
     
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello!+👋;+I+am+Shiva+Prasad+Sarkar!;A+CSE+Undergrad+Student+from+Brac+University,+Bangladesh;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello!+👋;+I+am+Shiva+Prasad+Sarkar!;Undergrad+CSE+Student;+Brac+University,+Bangladesh;" />
 </h1>
     
 # 💻 My Skills :
