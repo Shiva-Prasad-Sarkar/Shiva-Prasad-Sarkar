@@ -40,10 +40,5 @@
 ## 🌐 Connect With me :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shivaprasadsarkar.sps/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shiva-prasad-sarkar-4700ab227/) 
 
-<div align="center">
-  <h2>My Contributions ✅</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Shiva-Prasad-Sarkar/Shiva-Prasad-Sarkar/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=Shiva-Prasad-Sarkar&icon=0&color=0)](https://visitcount.itsvg.in)
