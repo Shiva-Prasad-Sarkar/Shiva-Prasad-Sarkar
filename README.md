@@ -43,5 +43,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shiva-Prasad-Sarkar&label=Profile%20views&color=0eb466&style=flat" alt="Shiva-Prasad-Sarkar" /> </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Maps&size=27&duration=3000&pause=1000&center=true&random=false&width=435&height=60&lines=THANKS+FOR+THE+VISIT;DO+GOOD,;BE+GOOD,;&+PLANT+MORE+TREES!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Maps&size=27&duration=3000&pause=1000&center=true&random=false&width=435&height=60&lines=THANKS+FOR+THE+VISIT;DO+GOOD,;BE+GOOD,;PLANT+MORE+TREES!" alt="Typing SVG" /></a>
 </p>
