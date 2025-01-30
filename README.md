@@ -41,3 +41,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shivaprasadsarkar.sps/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shiva-prasad-sarkar-4700ab227/) 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shiva-Prasad-Sarkar&label=Profile%20views&color=0eb466&style=flat" alt="Shiva-Prasad-Sarkar" /> </p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Maps&size=27&duration=3000&pause=1000&center=true&random=false&width=435&height=60&lines=THANKS+FOR+THE+VISIT;DO+GOOD;BE+GOOD;PLANT TREES" alt="Typing SVG" /></a>
+</p>
