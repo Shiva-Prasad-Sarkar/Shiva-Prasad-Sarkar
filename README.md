@@ -108,18 +108,6 @@
 
 <div align="center">
 
-# 🏆 **Achievement Gallery**
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shiva-Prasad-Sarkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
 # ✍️ **Daily Developer Inspiration**
 
 ![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
