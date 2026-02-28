@@ -105,7 +105,6 @@
 <br>
 
 ---
-<div align="center">
 ### 🐍 My Contributions
 
 <div align="center">
@@ -115,7 +114,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shiva-Prasad-Sarkar/Shiva-Prasad-Sarkar/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<br>
 
 ---
 
