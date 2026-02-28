@@ -96,7 +96,7 @@
 
 # 📊 **GitHub Analytics**
 
-### 🔥 **Contribution Streak**
+### 🔥 **Contribution Streak My Contribution**
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Prasad-Sarkar&theme=dark&hide_border=false)
 
@@ -107,7 +107,7 @@
 ---
 
 <div align="center">
- # 🐍 *My Contributions**
+ # 🐍 **My Contribution**
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shiva-Prasad-Sarkar/Shiva-Prasad-Sarkar/output/github-contribution-grid-snake-dark.svg">
