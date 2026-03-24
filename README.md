@@ -107,6 +107,15 @@
 ---
 
 <div align="center">
+
+# ⚡ **Recent GitHub Activity**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+<div align="center">
  🐍 My Contribution
 
   <picture>
@@ -119,6 +128,8 @@
 ---
 
 <div align="center">
+
+
 
 # ✍️ **Daily Developer Inspiration**
 
