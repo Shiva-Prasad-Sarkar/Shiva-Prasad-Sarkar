@@ -18,7 +18,7 @@ jobs:
 
       # --- UPDATE RECENT ACTIVITY ---
       - name: Update Recent Activity
-        uses: jamesgeorge007/github-activity-readme@v0.2.3
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
