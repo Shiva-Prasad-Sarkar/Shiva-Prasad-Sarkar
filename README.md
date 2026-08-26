@@ -111,7 +111,7 @@
 # ⚡ **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Aditi-Adri/CSE471-PROJECT/pull/11) in [Aditi-Adri/CSE471-PROJECT](https://github.com/Aditi-Adri/CSE471-PROJECT)
+1. 🎉 Merged PR [#11](https://github.com/Aditi-Adri/CSE471-PROJECT/pull/11) in [Aditi-Adri/CSE471-PROJECT](https://github.com/Aditi-Adri/CSE471-PROJECT)
 <!--END_SECTION:activity-->
 
 </div>
